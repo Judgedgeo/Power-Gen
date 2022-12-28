@@ -49,7 +49,7 @@ Collaborators = George Jordan (xasdfaf)
 
 Tutorials / References to complete this project
 https://www.w3schools.com/js/js_if_else.asp
- - https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/
+
 
 ## License
 
